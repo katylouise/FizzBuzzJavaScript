@@ -1,2 +1,3 @@
-
-TDD version of FizzBuzz in JavaScript using Jasmine
+FizzBuzzJS
+===========
+TDD version of FizzBuzz in JavaScript tested using Jasmine.

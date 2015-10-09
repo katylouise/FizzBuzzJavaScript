@@ -2,7 +2,7 @@ function Game() {
 }
 
 Game.prototype.isDivisibleByThree = function(number) {
-  return number % 3 === 0 ? true : false; //return at start of line
+  return number % 3 === 0 ? true : false;
 };
 
 Game.prototype.isDivisibleByFive = function(number) {
